@@ -1,6 +1,3 @@
-Absolutely. I’ll structure this like a **Senior DevOps Engineer’s Git command reference**, not just a list of Git commands.
-
-Your document already has many useful commands, but some are **old-style, unsafe, or technically incorrect**. I’ll also point those out so you don’t build bad habits.
 
 # Git Commands for DevOps & Software Engineers
 
