@@ -1,0 +1,5 @@
+# Force GitHub to detect all Markdown files in the language bar
+*.md linguist-documentation=false
+*.md linguist-vendored=false
+*.md linguist-generated=false
+*.md linguist-detectable=true
